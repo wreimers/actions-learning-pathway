@@ -1,7 +1,7 @@
 name: build-test-deploy
 on: push
 jobs:
-  hello-world:
+  build-test-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
